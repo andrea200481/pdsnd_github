@@ -15,3 +15,4 @@ CSV files from following cities: New York City, Chicago, Washington
 
 ### Credits
 Thanks udacity to give us the data to provide such an amazing project.
+Thanks Github for having a great remote repo and for the inspiration.
