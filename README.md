@@ -6,7 +6,7 @@ US Bikeshare Project
 
 ### Description
 Interactive data query from a bike sharing system.
-Data is based on 3 different cities.
+Data is based on 3 different cities. With the given data I created an Interactive tool by using python. By answering questions the tool provides the users different data about preferred start and end stations, preferred time, average age of bikeshare users etc.
 
 
 
