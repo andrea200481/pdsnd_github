@@ -1,4 +1,3 @@
-# TO DO:  create a US bikeshare project with python
 import time
 import pandas as pd
 import numpy as np
@@ -22,7 +21,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
 
 
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # TO DO: get user input for city (chicago, new york city, washington). Add a break into the code by using while loop to handle invalid inputs
 
     while True:
         city = input(' Would you like to see data from Chicago, New York City or Washington? \n').lower()
